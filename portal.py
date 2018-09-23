@@ -1,8 +1,13 @@
 import requests
 import re
 import time
+import argparse
 
-target_ip = '192.168.1.1'
+parser = argparse.ArgumentParser(description='PORTAL - Router Bruteforce Tool')
+parser.add_argument('ip', type=str, help='ip address of target router')
+args = parser.parse_args()
+
+target_ip = args.ip
 
 user_names = []
 passwords = []
