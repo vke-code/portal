@@ -7,6 +7,15 @@ Portal will look for a users.txt and passwords.txt in the current directory, and
 
 If the program is able to authenticate successfully it uses the discovered credentials and attempts to enable remote management.  
 
+## Requirements
+Portal requires the following libraries to be installed:
+- Requests  
+
+The required packages can be installed with the following command:
+
+```sh
+$ pip install -r requirements.txt
+```
 
 ## Usage
 - users.txt - list of usernames to brute force; one per line
