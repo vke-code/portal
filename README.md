@@ -9,7 +9,7 @@ If the program is able to authenticate successfully it uses the discovered crede
 
 For a full analysis and description of the program check out the article I wrote on this process:
 
-[Bruteforce Router Takeover (Part 1)](http://kai-taylor.com/brute-force-router-takeover/)
+- [Bruteforce Router Takeover (Part 1)](http://kai-taylor.com/brute-force-router-takeover/)
 
 ## Requirements
 Portal requires the following libraries to be installed:
