@@ -5,7 +5,11 @@ _Bruteforce router administration credentials and attempt to enable remote manag
 
 Portal will look for a users.txt and passwords.txt in the current directory, and attempt to login to the router at the provided IP address.
 
-If the program is able to authenticate successfully it uses the discovered credentials and attempts to enable remote management.  
+If the program is able to authenticate successfully it uses the discovered credentials and attempts to enable remote management.
+
+For a full analysis and description of the program check out the article I wrote on this process:
+
+[Bruteforce Router Takeover (Part 1)](http://kai-taylor.com/brute-force-router-takeover/)
 
 ## Requirements
 Portal requires the following libraries to be installed:
