@@ -48,3 +48,6 @@ $ python portal.py 192.168.1.1
 | Manufacturer | Model    | Verified         |
 |:-------------|:---------|:----------------:|
 | NETGEAR      | WNDR4300 |:white_check_mark:|
+
+### Developed by
+- [SecuringNinja](https://securingninja.com)
