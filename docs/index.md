@@ -18,6 +18,8 @@ Portal requires the following libraries to be installed:
 The required packages can be installed with the following command:
 
 ```sh
+$ git clone https://github.com/vke-code/portal.git
+$ cd portal
 $ pip install -r requirements.txt
 ```
 
